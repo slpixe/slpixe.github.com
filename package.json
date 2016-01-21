@@ -1,0 +1,10 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "author": "Dean",
+  "license": "ISC",
+  "dependencies": {
+    "hackmyresume": "^1.5.2",
+    "jsonresume-theme-wb-elegant": "mudassir0909/jsonresume-theme-elegant"
+  }
+}
