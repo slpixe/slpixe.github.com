@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Dean",
   "license": "ISC",
-  "private": true
+  "private": true,
   "dependencies": {},
   "devDependencies": {
 	"hackmyresume": "^1.5.2",
