@@ -1,18 +1,13 @@
 {
   "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
+    "name": "Dean Quinney",
+    "label": "Web Developer",
     "picture": "",
-    "email": "richard.hendriks@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "email": "dean@quinney.co",
+    "summary": "Dean is based in the Midlands UK. His skills are in Web Development at a full stack level, from setting up servers and designing databases for backend services to frontend interfaces using an array of methodologies and technologies.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "countryCode": "UK",
+      "region": "Midlands"
     },
     "profiles": [
       {
@@ -29,61 +24,44 @@
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Ventutec",
+      "position": "Web Developer",
+      "website": "http://ventutec.com",
+      "startDate": "2013-10-01",
+      "summary": "Ventutec is a company investing in technological ideas, ranging from our hosting platform Siteopia, to Bespoke applications for the web and mobile",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Architecting a range of websites and web-applications including CRM and CMS systems",
+        "Building large web-designs such as SPA(single-page applications) and mobile-specific interfaces",
+        "Supporting operations of our hosting platform from the shared-servers to VPS's(virtual private servers)"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+    },
+	{
+      "company": "Superdream",
+      "position": "Web Developer",
+      "website": "http://superdream.co.uk",
+      "startDate": "2011-07-01",
+	  "endDate": "2013-10-01",
+      "summary": "Superdream are a design/creative agency creating Websites, Branding and Design for customers",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Building of brouchure and news/blogging websites using the Wordpress CMS platform, or static-sites if suitable",
+        "Creation of plugins to extend functionality of existing websites",
+        "Managing hosting for our customers with a range of control panels from Plesk to cPanel"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Swansea University",
+      "area": "Web Development",
+      "studyType": "Bachelor(Hons)",
+      "startDate": "2008-09-01",
+      "endDate": "2011-06-01",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Application Design and Development",
+        "Database Management Systems",
+		"Software Development",
+		"Project Management"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
@@ -114,17 +92,25 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Photography",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Still life",
+        "Portrait",
+		"Landscape",
+		"Wildlife",
+		"Motorsports",
+		"Astrophotography"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    },
+	{
+      "name": "Sports",
+      "keywords": [
+        "Badminton",
+        "Running",
+		"Hiking",
+		"Swimming",
+		"E-sports (Rocket League)"
+      ]
     }
   ]
 }
