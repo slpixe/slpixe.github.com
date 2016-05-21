@@ -12,12 +12,12 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
+        "username": "",
         "url": ""
       },
       {
         "network": "SoundCloud",
-        "username": "dandymusicnl",
+        "username": "",
         "url": "https://soundcloud.com/dandymusicnl"
       }
     ]
@@ -52,7 +52,7 @@
   ],
   "education": [
     {
-      "institution": "Swansea University",
+      "institution": "Swansea University (UK)",
       "area": "Web Development",
       "studyType": "Bachelor(Hons)",
       "startDate": "2008-09-01",
@@ -68,7 +68,6 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
@@ -77,7 +76,6 @@
     },
     {
       "name": "Compression",
-      "level": "Master",
       "keywords": [
         "Mpeg",
         "MP4",
